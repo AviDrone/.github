@@ -22,7 +22,7 @@ Avalanches kill over 150 people worldwide every year. After getting caught in an
 
 Our goal is to create an Unmanned Aerial System (UAS) that can search for and detect signals emitted from avalanche transceivers and mark the victim's locations autonomously.
 
-The problems the AviDrone project seeks to solve are as follows:
+The problems the AviDrone project seeks to solve are:
 
 * Pinpoint a victim's location autonomously using avalanche transceivers.
 
