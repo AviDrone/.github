@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Avidrone
+# Autonomous Avalanche Rescue
 
 ![license](https://img.shields.io/github/license/AviDrone/AviDrone)
 ![stars](https://img.shields.io/github/stars/AviDrone/AviDrone?style=social)
