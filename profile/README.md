@@ -22,30 +22,22 @@ Our goal is to create an Unmanned Aerial System (UAS) that can search for and de
 
 The AviDrone is an Unmanned Aerial System (UAS) that should be capable of: 
 
-Searching for and detecting signals emitted from avalanche transceivers 
-
-Marking the buried victims’ locations 
+- Searching for and detecting signals emitted from avalanche transceivers 
+- Marking the buried victims’ locations 
 
 This project is a continuation of a previous team of four. This year, the drone is intended to be expanded in three key ways: 
 
-Improvements made to the hardware to reduce EMI (Electromagnetic Interference) and add a height sensor to the device 
-
-Expansions to the autonomous search capabilities of the drone in the form of a primary search phase that transitions into a secondary search phase 
-
-Integration with a GUI (Graphical User Interface) to provide a convenient user experience when operating the drone 
+- Improvements made to the hardware to reduce EMI (Electromagnetic Interference) and add a height sensor to the device 
+- Expansions to the autonomous search capabilities of the drone in the form of a primary search phase that transitions into a secondary search phase 
+- Integration with a GUI (Graphical User Interface) to provide a convenient user experience when operating the drone 
 
 This iteration of the AviDrone project saw developments in: 
 
-Primary search implementation 
-
-Secondary search improvements 
-
-Secondary search simulation improvements 
-
-Drone EMI testing 
-
-Drone height sensor implementation 
-
-Basic GUI setup 
+- Primary search implementation 
+- Secondary search improvements 
+- Secondary search simulation improvements 
+- Drone EMI testing 
+- Drone height sensor implementation 
+- Basic GUI setup 
 
 This project continued looking into the feasibility of using a drone as a helpful tool for avalanche search victims, potentially in a way that is quicker and safer than traditional methods.  
