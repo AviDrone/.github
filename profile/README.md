@@ -11,15 +11,14 @@
 
 # Autonomous Avalanche Rescue 🏔
 
-![license](https://img.shields.io/github/license/AviDrone/AviDrone)
-![stars](https://img.shields.io/github/stars/AviDrone/AviDrone?style=social)
-
-## Project Motivations
-
 Avalanches kill over 150 people worldwide every year. After getting caught in an avalanche, your chances of survival in the first 15 minutes are around 90%. After 30 minutes, your chances drop to 30%. Rescue teams must get to avalanche victims in the fastest time possible.
 
 Our goal is to create an Unmanned Aerial System (UAS) that can search for and detect signals emitted from avalanche transceivers and mark the victim's locations autonomously.
 
+![license](https://img.shields.io/github/license/AviDrone/AviDrone)
+![stars](https://img.shields.io/github/stars/AviDrone/AviDrone?style=social)
+
+## About the project
 The AviDrone is an Unmanned Aerial System (UAS) that should be capable of: 
 
 - Searching for and detecting signals emitted from avalanche transceivers 
