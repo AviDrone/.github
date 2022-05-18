@@ -38,7 +38,7 @@ This project continued looking into the feasibility of using a drone as a helpfu
 
 ## How to contribute
 
-To learn how to contribute to this project, you can read the CONTRIBUTING.md file. You can also keep an eye for open issues.
+To learn how to contribute to this project, you can read the [CONTRIBUTING.md](https://github.com/AviDrone/.github/blob/main/CONTRIBUTING.md) file. You can also keep an eye for open issues.
 
 ## Resources
 - [QGRoundControl Developer Guide](https://dev.qgroundcontrol.com/master/en/index.html)
