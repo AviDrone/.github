@@ -9,34 +9,40 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Autonomous Avalanche Rescue 🏔
-
-Avalanches kill over 150 people worldwide every year. After getting caught in an avalanche, your chances of survival in the first 15 minutes are around 90%. After 30 minutes, your chances drop to 30%. Rescue teams must get to avalanche victims in the fastest time possible.
-
-Our goal is to create an Unmanned Aerial System (UAS) that can search for and detect signals emitted from avalanche transceivers and mark the victim's locations autonomously.
+---
 
 ![license](https://img.shields.io/github/license/AviDrone/AviDrone)
 ![stars](https://img.shields.io/github/stars/AviDrone/AviDrone?style=social)
 
+# Autonomous Avalanche Rescue 🏔⛑
+
+Avalanches kill over 150 people worldwide every year.[^1] After getting caught in an avalanche, your chances of survival in the first 15 minutes are around 90%. After 30 minutes, your chances drop to 30%. Rescue teams must get to avalanche victims in the fastest time possible.
+[^1]: [National Geographic](https://www.nationalgeographic.org/encyclopedia/avalanche/)
+
+Our goal is to create an Unmanned Aerial System (UAS) that can search for and detect signals emitted from avalanche transceivers and mark the victim's locations autonomously to reduce search time of avalanche victims.
+
+To learn more about avalanches in general, visit the [National Avalanche Center](https://avalanche.org/#/current)'s website.
+
 ## About the project
-The AviDrone is an Unmanned Aerial System (UAS) that should be capable of: 
+ This year, the Avidrone project saw developments in: 
 
-- Searching for and detecting signals emitted from avalanche transceivers 
-- Marking the buried victims’ locations 
+ - Expanding search capabilities by implementing an algorithm for primary search.
+ 
+ - Developing a simluation for automated mission testing using [Ardupilot](https://ardupilot.org/) and [MAVproxy](https://ardupilot.org/mavproxy/index.html).
 
-This project is a continuation of a previous team of four. This year, the drone is intended to be expanded in three key ways: 
+ - Implementing CLI arguments and creating a custom build of [QGroundControl](http://qgroundcontrol.com/) (QGC)
 
-- Improvements made to the hardware to reduce EMI (Electromagnetic Interference) and add a height sensor to the device 
-- Expansions to the autonomous search capabilities of the drone in the form of a primary search phase that transitions into a secondary search phase 
-- Integration with a GUI (Graphical User Interface) to provide a convenient user experience when operating the drone 
-
-This iteration of the AviDrone project saw developments in: 
-
-- Primary search implementation 
-- Secondary search improvements 
-- Secondary search simulation improvements 
-- Drone EMI testing 
-- Drone height sensor implementation 
-- Basic GUI setup 
+ - Developing specialized hardware components.
 
 This project continued looking into the feasibility of using a drone as a helpful tool for avalanche search victims, potentially in a way that is quicker and safer than traditional methods.  
+
+## How to contribute
+
+To learn how to contribute to this project, you can read the CONTRIBUTING.md file. You can also keep an eye for open issues.
+
+## Resources
+- [QGRoundControl Developer Guide](https://dev.qgroundcontrol.com/master/en/index.html)
+- [MAVproxy Developer Guide](https://ardupilot.org/mavproxy/index.html)
+- [Avalanche Rescue Procedures](https://www.youtube.com/watch?v=nnHXLVA2FcE&ab_channel=BackcountryAccess)
+
+---
